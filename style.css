@@ -63,7 +63,7 @@ nav >ul>li> .item-menu{
     flex-direction: row;
     margin-bottom: 16px;
 }
-@media only screen and (min-width: 320px) {
+@media only screen and (max-width: 320px) {
     .content-histories{
         padding: 10px;
         width: 100%;
