@@ -26,8 +26,6 @@ body{
     height: 100vh;
     overflow: scroll;
     margin-top: 80px;
-    border: 1px solid white;
-
 }
 
 nav{
@@ -46,7 +44,7 @@ nav >ul>li> .item-menu{
     max-width: 590px/5;
 }
 .item-menu{
-    
+
 
 }
 
@@ -99,7 +97,7 @@ nav >ul>li> .item-menu{
     margin-bottom: 16px;
 
 
-    
+
  }
 .title{
 
